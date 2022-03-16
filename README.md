@@ -1,14 +1,23 @@
-### Hi there, I'm Abdulqodir 👋
+### Hi there 👋, Abdulqodir
+#### I a Backend developer
+I'm Abdulqodir from Nigeria, I do web development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qoudri4re)](https://github.com/anuraghazra/github-readme-stats)
+Skills:  JS / PHP / PYTHON / HTML / CSS / JAVA
 
-<!--
-**qoudri4re/qoudri4re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Learning Backend and Frontend Languages 
+- 🌱 I’m currently learning Learning Backend and Frontend Languages 
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Backend languages.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: qoudri4re@mail.com,  
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/qoudri4re)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Abdulqodir Muritadoh/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoudri4re)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qoudri4re&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qoudri4re)  
+
+![GitHub metrics](https://metrics.lecoq.io/qoudri4re)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=qoudri4re)  
+
+![Profile views](https://gpvc.arturio.dev/qoudri4re)  
