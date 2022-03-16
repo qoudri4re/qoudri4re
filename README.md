@@ -11,6 +11,7 @@ Skills:  JS / PHP / PYTHON / HTML / CSS / JAVA
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/qoudri4re)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Abdulqodir Muritadoh/)
 
 ![Profile views](https://gpvc.arturio.dev/qoudri4re)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoudri4re)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qoudri4re&show_icons=true)  
