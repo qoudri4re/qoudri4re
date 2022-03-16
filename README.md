@@ -22,4 +22,4 @@ Skills:  JS / PHP / PYTHON / HTML / CSS / JAVA
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=qoudri4re)  
 
-![Profile views](https://gpvc.arturio.dev/qoudri4re)  
+
