@@ -12,9 +12,9 @@ Skills:  JS / PHP / PYTHON / HTML / CSS / JAVA
 
 ![Profile views](https://gpvc.arturio.dev/qoudri4re)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoudri4re)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoudri4re)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qoudri4re&show_icons=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qoudri4re&show_icons=true)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qoudri4re)  
 
