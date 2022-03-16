@@ -1,4 +1,4 @@
-### Hi there 👋, Abdulqodir
+### Hi there 👋, I'm Abdulqodir
 #### I a Backend developer
 I'm Abdulqodir from Nigeria, I do web development.
 
