@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Abdulqodir
 #### I am Backend developer
-I'm Abdulqodir from Nigeria, I do web development.
 
 Skills:  JS / PHP / PYTHON / HTML / CSS / JAVA
 
